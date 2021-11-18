@@ -1,0 +1,144 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "nama": "Jihan Fadhilah",
+          "domisili": "Tangerang",
+          "umur": 20,
+          "nohp": "081311388864"
+        },
+        {
+          "id": 2,
+          "nama": "Latifa Dhaniasari",
+          "domisili": "Jakarta Selatan",
+          "umur": 21,
+          "nohp": "081310950850"
+        },
+        {
+          "id": 3,
+          "nama": "Tri Palupi",
+          "domisili": "Wonogiri",
+          "umur": 29,
+          "nohp": "081317976783"
+        },
+        {
+          "id": 4,
+          "nama": "Dhimas Alim Saputro",
+          "domisili": "Jakarta Selatan",
+          "umur": 26,
+          "nohp": "085781151981"
+        },
+        {
+          "id": 5,
+          "nama": "Anggita Prastiwi",
+          "domisili": "Tangerang",
+          "umur": 19,
+          "nohp": "081310950834"
+        },
+        {
+          "id": 6,
+          "nama": "Raihan Abdul Azis",
+          "domisili": "Depok",
+          "umur": 16,
+          "nohp": "085710760841"
+        },
+        {
+          "id": 7,
+          "nama": "Adi Setyo Nugroho",
+          "domisili": "Bekasi",
+          "umur": 21,
+          "nohp": "085710950890"
+        },
+        {
+          "id": 8,
+          "nama": "Naufal Rizki Pratama",
+          "domisili": "Jakarta Timur",
+          "umur": 19,
+          "nohp": "081210980853"
+        },
+        {
+          "id": 9,
+          "nama": "Daffa Arya Pratama",
+          "domisili": "Malang",
+          "umur": 18,
+          "nohp": "085717650855"
+        },
+        {
+          "id": 10,
+          "nama": "Kusniati",
+          "domisili": "Solo",
+          "umur": 32,
+          "nohp": "0896318950878"
+        },
+        {
+          "id": 11,
+          "nama": "Jihan Fadhilah",
+          "domisili": "Tangerang",
+          "umur": 20,
+          "nohp": "081311388864"
+        },
+        {
+          "id": 12,
+          "nama": "Latifa Dhaniasari",
+          "domisili": "Jakarta Selatan",
+          "umur": 21,
+          "nohp": "081310950850"
+        },
+        {
+          "id": 13,
+          "nama": "Siti Wulandari",
+          "domisili": "Wonogiri",
+          "umur": 29,
+          "nohp": "081317976783"
+        },
+        {
+          "id": 14,
+          "nama": "Dhimas Alim Saputro",
+          "domisili": "Jakarta Selatan",
+          "umur": 26,
+          "nohp": "085781151981"
+        },
+        {
+          "id": 15,
+          "nama": "Anggita Prastiwi",
+          "domisili": "Tangerang",
+          "umur": 19,
+          "nohp": "081310950834"
+        },
+        {
+          "id": 16,
+          "nama": "Raihan Abdul Azis",
+          "domisili": "Depok",
+          "umur": 16,
+          "nohp": "085710760841"
+        },
+        {
+          "id": 17,
+          "nama": "Adi Setyo Nugroho",
+          "domisili": "Bekasi",
+          "umur": 21,
+          "nohp": "085710950890"
+        },
+        {
+          "id": 18,
+          "nama": "Naufal Rizki Pratama",
+          "domisili": "Jakarta Timur",
+          "umur": 19,
+          "nohp": "081210980853"
+        },
+        {
+          "id": 19,
+          "nama": "Daffa Arya Pratama",
+          "domisili": "Malang",
+          "umur": 18,
+          "nohp": "085717650855"
+        },
+        {
+          "id": 20,
+          "nama": "Kusniati",
+          "domisili": "Solo",
+          "umur": 32,
+          "nohp": "0896318950878"
+        }
+    ]
+}
